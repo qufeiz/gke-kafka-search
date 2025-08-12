@@ -13,12 +13,6 @@ This is a distributed, cloud-native search engine that supports file upload, inv
 
 ---
 
-code walkthrough: [https://drive.google.com/file/d/1JFysXF69-cn3zG7CSDOAWcqGaaXg37kP/view?usp=drive_link]([https://drive.google.com/file/d/1JFysXF69-cn3zG7CSDOAWcqGaaXg37kP/view?usp=drive_link)
-
-live demo: [https://drive.google.com/file/d/1AXxDK4svgXUHAzWZBs6xdAYikxSACB4q/view?usp=sharing](https://drive.google.com/file/d/1AXxDK4svgXUHAzWZBs6xdAYikxSACB4q/view?usp=sharing)
-
----
-
 ## How to Run the Application
 
 > Requirements before starting:
